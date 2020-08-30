@@ -1,0 +1,11 @@
+C:\Users\User\davinci\pdd-2508\ejercicio_uno\ejercicio_uno\bin\Debug\netcoreapp2.2\ejercicio_uno.deps.json
+C:\Users\User\davinci\pdd-2508\ejercicio_uno\ejercicio_uno\bin\Debug\netcoreapp2.2\ejercicio_uno.runtimeconfig.json
+C:\Users\User\davinci\pdd-2508\ejercicio_uno\ejercicio_uno\bin\Debug\netcoreapp2.2\ejercicio_uno.runtimeconfig.dev.json
+C:\Users\User\davinci\pdd-2508\ejercicio_uno\ejercicio_uno\bin\Debug\netcoreapp2.2\ejercicio_uno.dll
+C:\Users\User\davinci\pdd-2508\ejercicio_uno\ejercicio_uno\bin\Debug\netcoreapp2.2\ejercicio_uno.pdb
+C:\Users\User\davinci\pdd-2508\ejercicio_uno\ejercicio_uno\obj\Debug\netcoreapp2.2\ejercicio_uno.csprojAssemblyReference.cache
+C:\Users\User\davinci\pdd-2508\ejercicio_uno\ejercicio_uno\obj\Debug\netcoreapp2.2\ejercicio_uno.csproj.CoreCompileInputs.cache
+C:\Users\User\davinci\pdd-2508\ejercicio_uno\ejercicio_uno\obj\Debug\netcoreapp2.2\ejercicio_uno.AssemblyInfoInputs.cache
+C:\Users\User\davinci\pdd-2508\ejercicio_uno\ejercicio_uno\obj\Debug\netcoreapp2.2\ejercicio_uno.AssemblyInfo.cs
+C:\Users\User\davinci\pdd-2508\ejercicio_uno\ejercicio_uno\obj\Debug\netcoreapp2.2\ejercicio_uno.dll
+C:\Users\User\davinci\pdd-2508\ejercicio_uno\ejercicio_uno\obj\Debug\netcoreapp2.2\ejercicio_uno.pdb
